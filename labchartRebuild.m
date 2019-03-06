@@ -1,5 +1,5 @@
 %% Comments
-%Function to rebuild data from Labchar Matlab Export
+%Function to rebuild data from Labchart Matlab Export
 
 %Author: V. Doguet 24/05/2018
 %% Function
